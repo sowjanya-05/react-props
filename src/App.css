@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.nav a{
+  text-decoration: none;
+  text-transform: uppercase;
+  margin:0% 12% 3% 13%;
+  font-size: 25px;
+}
+.nav{
+  background-color: lightblue;
+  margin-bottom: 1%;
+  padding: 2%;
+}
+a:hover{
+  color: royalblue;
+  background-color: white;
+  padding: 1%;
+  border-radius: 15px;
+}
+.text{
+  font-size: 20px;
+}

@@ -7,7 +7,8 @@ class StateExample extends React.Component{
 		employees:[
 			{id:1,name:"emp1"},
 			{id:2,name:"emp2"},
-			{id:3,name:"emp3"}
+			{id:3,name:"emp3"},
+			{id:4,name:"emp4"}
 			]
 		//employees:["emp1","emp2",emp3]
 	}
